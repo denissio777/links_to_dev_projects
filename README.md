@@ -1,1 +1,7 @@
-# links_to_dev_projects
+# You can check dev projects
+
+http://dev.prodavan.in.ua/
+
+http://dev.verdad.eu/
+
+http://new.viabona.com.ua/
