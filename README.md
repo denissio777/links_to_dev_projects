@@ -1,4 +1,9 @@
-# You can check dev projects
+#Hello! Keep calm and drink coffee! Have a nica day :)
+
+I will glade to work with u! Fell free to contact me +380977711778 or denissio_developer@ukr.net 
+
+
+You can check dev projects
 
 http://dev.prodavan.in.ua/
 
