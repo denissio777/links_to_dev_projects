@@ -7,6 +7,4 @@ You can check dev projects
 
 http://dev.prodavan.in.ua    - OpenCart 
 
-http://dev.verdad.eu         - Laravel 
-
 http://new.viabona.com.ua    - React, Codeigniter, Wordpress 
